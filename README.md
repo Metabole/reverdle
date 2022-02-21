@@ -32,9 +32,9 @@
     <br />
     <br />
     <p>
-    <a href="https://github.com/ashwire/reverdle/issues">Report Bug</a>
+    <a href="https://github.com/metabole/reverdle/issues">Report Bug</a>
     ·
-    <a href="https://github.com/ashwire/reverdle/issues">Request Feature</a>
+    <a href="https://github.com/metabole/reverdle/issues">Request Feature</a>
   </p>
 </div>
 
@@ -92,7 +92,7 @@ None!
     - [x] Add Tacocats
     - [ ] Yes
 
-See the [open issues](https://github.com/ashwire/reverdle/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/metabole/reverdle/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -140,13 +140,13 @@ Project Creator: [Ashwire](https://github.com/ashwire)
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
-[contributors-url]: https://github.com/ashwire/reverdle/graphs/contributors
+[contributors-url]: https://github.com/metabole/reverdle/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
-[forks-url]: https://github.com/ashwire/reverdle/network/members
+[forks-url]: https://github.com/metabole/reverdle/network/members
 [stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
-[stars-url]: https://github.com/ashwire/reverdle/stargazers
+[stars-url]: https://github.com/metabole/reverdle/stargazers
 [issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
-[issues-url]: https://github.com/ashwire/reverdle/issues
+[issues-url]: https://github.com/metabole/reverdle/issues
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [product-screenshot]: images/screenshot.png
