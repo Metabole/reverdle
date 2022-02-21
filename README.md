@@ -8,10 +8,12 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
+<!--
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
+-->
 
 
 <!-- PROJECT LOGO -->
@@ -88,8 +90,8 @@ None!
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] To be updated!
-    - [ ] Add Tacocats
+- [x] To be updated!
+    - [x] Add Tacocats
     - [ ] Yes
 
 See the [open issues](https://github.com/ashwire/reverdle/issues) for a full list of proposed features (and known issues).
@@ -118,7 +120,7 @@ Don't forget to give the project a star! Thanks again!
 <!-- CONTACT -->
 ## Contact
 
-Project Link: [https://github.com/ashwire](Project Creator)
+Project Creator: [Ashwire](https://github.com/ashwire)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
