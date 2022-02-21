@@ -79,7 +79,7 @@ If you want to contribute, you may fork this repo, create a pull request or open
 <!-- GETTING STARTED -->
 ## Getting Started
 
-To set up a local copy of the current patch of Reverdle, simply download the .js file and [the main page](view-source:https://metabole.ga/reverdle/index.html) into the same directory and open the index.html page. This version will eventually fall forward/backward in terms of used words as it is not going to sync with this version.
+To set up a local copy of the current patch of Reverdle, simply go to metabole.ga/reverdle, press CTRL+S, select "Webpage, Complete", and then go into the directory you saved it to and open the index.html page. This version will eventually fall forward/backward in terms of used words as it is not going to sync with this version.
 
 ### Prerequisites
 
