@@ -31,7 +31,7 @@
     <a href="https://metabole.ga/reverdle"><strong>See Live Version »</strong></a>
     <br />
     <br />
-    ·
+    
     <a href="https://github.com/ashwire/reverdle/issues">Report Bug</a>
     ·
     <a href="https://github.com/ashwire/reverdle/issues">Request Feature</a>
@@ -68,8 +68,6 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-[![Product Name Screen Shot][product-screenshot]](https://metabole.ga/reverdle)
 
 Debloating the new Wordle and restoring functionality, to preserve a truly free and compact online web game.
 
