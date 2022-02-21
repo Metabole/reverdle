@@ -31,7 +31,7 @@
     <a href="https://metabole.ga/reverdle"><strong>See Live Version »</strong></a>
     <br />
     <br />
-    
+    <p>
     <a href="https://github.com/ashwire/reverdle/issues">Report Bug</a>
     ·
     <a href="https://github.com/ashwire/reverdle/issues">Request Feature</a>
